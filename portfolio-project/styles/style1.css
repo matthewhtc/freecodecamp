@@ -19,7 +19,7 @@ body {
 }
 
 #name {
-	font-family: Cormorant Unicase;
+	font-family: Raleway;
 	font-size: 90px;
 	color: white;
 
@@ -70,7 +70,7 @@ body {
 
 .title {
 	margin: 0;
-	font-family: Cormorant Unicase;
+	font-family: Raleway;
 	text-align: center;
 	color: white;
 	margin: 10px auto;
@@ -101,4 +101,30 @@ i {
 	font-family: Roboto Mono;
 	color: white;
 	margin: 10px auto;
+}
+
+.project {
+	height: 30px;
+	width: 30px;
+	border-color: #E91E63;
+	border-radius: 100%;
+	color: white;
+}
+
+.thumbnail {
+	margin-top: 40px;
+}
+
+.author {
+  color: #CFD8DC;
+}
+
+.author:hover {
+ 	text-decoration: none;
+ 	color: #ffcc00 !important;
+}
+
+.author:visited {
+	text-decoration: none !important;
+	color: #CFD8DC;
 }
