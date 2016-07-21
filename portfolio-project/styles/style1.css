@@ -1,0 +1,104 @@
+body {
+	position: relative;
+}
+
+#home {
+	background: url('../images/western.jpg') ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	overflow: hidden;
+}
+
+#description {
+	text-align: center;
+	margin: 100px auto;
+	padding-top:45px;
+	clear: both;
+	bottom: 0;
+}
+
+#name {
+	font-family: Cormorant Unicase;
+	font-size: 90px;
+	color: white;
+
+	
+}
+
+#bio {
+	font-family: Roboto Mono;
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-size: 16px;
+}
+
+.fa {
+	font-size: 90px;
+}
+
+#nav {
+	font-family: Roboto Mono;
+	list-style: none;
+	float: left;
+	padding-top: 20px;
+	position: fixed;
+}
+
+.links {
+	color: white;
+}
+.links:hover {
+	text-decoration: none;
+}
+
+#portfolio {
+	
+}
+
+.background {
+	height: 100vh;
+	background-color: #37474F;
+}
+
+.background-color {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #3F51B5;
+}
+
+.title {
+	margin: 0;
+	font-family: Cormorant Unicase;
+	text-align: center;
+	color: white;
+	margin: 10px auto;
+	font-size: 50px;
+}
+
+i {
+	color: white;
+	padding: 20px;	
+}
+
+#icon-table {
+	text-align: center;
+	margin: 20px auto;
+	margin-bottom: 160px;
+	padding-bottom: 80px;
+}
+
+#footer {
+	margin-top: -80px;
+	height: 80px;
+	clear: both;
+	position: relative;	
+}
+
+#footer-note {
+	text-align: center;
+	font-family: Roboto Mono;
+	color: white;
+	margin: 10px auto;
+}
