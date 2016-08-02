@@ -128,3 +128,8 @@ i {
 	text-decoration: none !important;
 	color: #CFD8DC;
 }
+
+ .container-fluid {
+ 	margin-left: -20px;
+ 	margin-right: -20px;
+ }
