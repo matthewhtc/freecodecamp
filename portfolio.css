@@ -1,0 +1,155 @@
+#homepage {
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), 
+	 			 url(https://source.unsplash.com/nCj0zBLIaAk);
+	background-size: cover;
+	min-height: 100vh;
+    overflow: hidden;
+}
+
+html, body {
+	height: 100%;
+	margin: 0; 
+}
+
+body {
+	font-family: Lato !important;
+	color: white;
+}
+
+h1 {
+	font-weight: 300;
+	margin-bottom: 24px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #988345;
+	text-align: center;
+	margin-top: 15%;
+	font-size: 3.5em;
+}
+
+#about {
+	font-weight: 300; 
+}
+
+#big-name {
+	margin-bottom: 20px;
+}
+hr {
+	color: white;
+	width: 10%;
+}
+
+h3 {
+	font-weight: 300;
+	text-transform: uppercase;
+	color: white;
+	
+	font-size: 1.5em;
+	text-align: center;
+}
+
+span {
+	color: white;
+}
+
+ul {
+	text-align: center;
+	margin-top: 10px;
+}
+li {
+	display: inline;
+	padding: 0 20px;
+	text-transform: uppercase; 
+}
+
+
+
+a {
+	text-decoration: none; 
+}
+
+.navbar {
+	border-radius: 0; 
+	background: #191919; 
+}
+
+.about-navbar {
+	font-size: 14px;
+}
+
+#name {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #988345;
+}
+
+#name-two {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #988345;
+}
+
+#about {
+	background-size: cover;
+	background: #191919; 
+    
+	min-height: 100vh;
+	/*background: black;*/
+	
+    overflow: hidden;
+}
+
+#portfolio, #contact {
+	background-size: cover;
+	background: #191919; 
+	min-height: 100vh;
+    overflow: hidden;
+}
+
+.navbar-inverse {
+	border-color: #191919;
+}
+
+#intro-one {
+	color: white;
+	text-align: center; 
+	font-weight: 300;
+	font-size: 2.0em;
+}
+
+#intro {
+	margin-top: 10%; 
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 300;
+	color: white;
+	width: 50%;
+}
+
+#grid {
+	margin-top: 6%;
+}
+
+.thumbnail {
+	border-radius: 0; 
+	background-color: #988345; 
+	border: none;
+}
+
+#contact-intro {
+	font-weight: 300;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 7.5%;
+	font-size: 2.0em;
+}
+
+#web {
+	font-weight: 300;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2.0em;
+}
+
